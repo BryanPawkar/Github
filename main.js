@@ -1,1 +1,3 @@
-ECHO est  activado.
+ECHO estï¿½ activado.
+let nombre = promp("Hola, cÃºal es tu nombre? ");
+alert("Bienvenido" + nombre); 
